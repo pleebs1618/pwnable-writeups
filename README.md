@@ -5,4 +5,4 @@ writeups for ctfs from pwnable.kr
 ## Toddler's Bottle
 
 ### Solved
-- [x] **[fd]**
+- :heavy_check_mark: **[fd]**
